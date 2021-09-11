@@ -1,4 +1,4 @@
-package club.anlan.lanlife.lan_app;
+package club.anlan.lanlife.lanapp;
 
 import org.junit.Test;
 
